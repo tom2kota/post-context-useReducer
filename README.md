@@ -1,11 +1,7 @@
 # Simple Blog - CRUD App
 Simple Blog using Context provider component - React Native CRUD App
 
-[DEMO]()
-
-[JSON SERVER](https://stream-json-server.herokuapp.com/)
-
-[JSON SERVER](https://stream-json-server.herokuapp.com/posts)
+[DEMO on snack.expo.io](https://snack.expo.io/@tom2kota/post-context-usereducer)
 
 
 --------------------
