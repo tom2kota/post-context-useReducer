@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "+post",
-    "slug": "snack-ed6c3c96-518a-449d-a229-5d4adf88f62d",
+    "name": "simple-blog",
+    "slug": "simple-blog",
     "platforms": [
       "ios",
       "android",
